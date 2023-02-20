@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r  /tmp/my_firet_directory/betty
+rm  /tmp/my_firet_directory/betty
